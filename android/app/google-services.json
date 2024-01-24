@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427798096916",
+    "project_id": "ewaste-baff5",
+    "storage_bucket": "ewaste-baff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427798096916:android:b662f4edd07099b9ad4b01",
+        "android_client_info": {
+          "package_name": "com.example.ewaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427798096916-jivk63ck8lealeg7iiqjt913pemo48gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnni8JuYrgknUCqfmSUHWAPfYeG-nfAzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427798096916-jivk63ck8lealeg7iiqjt913pemo48gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
